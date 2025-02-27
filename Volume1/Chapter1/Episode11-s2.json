@@ -1,6 +1,6 @@
 {
-    "DataList": [
-        {
+  "DataList": [
+    {
       "GroupId": 11115,
       "SelectionGroup": 0,
       "BGMId": 5,
@@ -14,7 +14,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -31,7 +31,7 @@
       "TextTh": "ศัตรูเริ่มถอนกำลังไปแล้วค่ะ",
       "TextTw": "敵軍正在撤退！",
       "TextEn": "The enemy is retreating.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -48,7 +48,7 @@
       "TextTh": "แต่หากปล่อยไปแบบนี้ละก็...",
       "TextTw": "但是再這樣下去…… ",
       "TextEn": "But at this rate...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -65,7 +65,7 @@
       "TextTh": "หรือว่าจะไปเรียกพวกมาอีก? มีเท่าไหร่ก็เข้ามาเลย ฉันพร้อมเสมอ",
       "TextTw": "打算叫更多夥伴來嗎？儘管來吧。 ",
       "TextEn": "Are they going to bring reinforcements? Fine by me.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -80,9 +80,9 @@
       "ScriptKr": "#3;hide\n1;히후미 귀가부;06;자, 잠깐만요! 여러분, 더 싸우면 안돼요!\n#1;a\n#1;em;[반응]",
       "TextJp": "ま、待ってください！それ以上戦っちゃダメです！",
       "TextTh": "ดะ.. เดี๋ยวก่อนค่ะ! ห้ามต่อสู้กันนะคะทุกคน!",
-      "TextTw": "請，請等一下！不能再繼續戰鬥下去了！",
+      "TextTw": "請，請等一下！不能再戰鬥下去了！",
       "TextEn": "W-Wait a second! We can't just keep engaging them like this!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -99,7 +99,7 @@
       "TextTh": "หืม? ทำไมเหรอ?",
       "TextTw": "嗯？怎麼了？",
       "TextEn": "I don't see why not.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -116,7 +116,7 @@
       "TextTh": "หากทำเรื่องวุ่นวายใหญ่โตในตลาดมืดละก็ พวกหน่วยงานความมั่นคงอาจจะมาเจอตัวพวกเราก็ได้#nนะคะ!",
       "TextTw": "因，因為……在黑市引起騷動的話，說不定會被管理這裡的治安單位發現！",
       "TextEn": "The Black Market's enforcers might crack down on us if we make any more of a scene!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -131,9 +131,9 @@
       "ScriptKr": "1;히후미 귀가부;05;아우우…… 그렇게 되면 진짜 큰일이니…… #n일단 여기를 벗어나는 걸로…….\n#1;stiff\n#1;em;[땀]",
       "TextJp": "あうう……そうなったら本当に大ごとです……まずはこの場から離れ……。",
       "TextTh": "ถ้าเป็นแบบนั้นก็งานเข้าของแท้เลยนะคะ... ก่อนอื่น เรารีบไปจากตรงนี้กันก่อนเถอะค่ะ...",
-      "TextTw": "啊嗚嗚……那樣的話就真的糟了…… #n總之先離開這邊吧……",
+      "TextTw": "啊嗚嗚……那樣就真的不妙了……#n總之先離開這邊吧……",
       "TextEn": "And we'll be in really big trouble if that happens. We should get out of here.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -148,9 +148,9 @@
       "ScriptKr": "5;호시노;01;흠……. 알았어, 여기는 우리보다 히후미 쨩이 더 잘 아는 것 같으니 말을 따르자고.\n#5;a",
       "TextJp": "ふむ……わかった。ここのことはヒフミちゃんのほうが詳しいだろうから、従おう。",
       "TextTh": "ฮึ่ม... ก็ได้ ฮิฟุมิจังน่าจะรู้จักที่นี่ดีกว่าพวกเรา งั้นเอาตามที่บอกแล้วกัน",
-      "TextTw": "5;星野;01;呼呣……我知道了。日步美醬似乎比咱們更了解這裡，那咱們就照她的話做吧。",
+      "TextTw": "呼呣……我知道了。#n看來日步美醬似乎比咱們更了解這裡，就先照他的話做吧。",
       "TextEn": "Fair. You know more about this place than we do, Hifumi, so we'll take your lead.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -165,9 +165,9 @@
       "ScriptKr": "3;세리카;06;쳇. 운이 좋은 줄 알라고!\n#3;hophop\n#3;a",
       "TextJp": "ちぇっ、運のいいやつらめ！",
       "TextTh": "ชิ! พวกเธอแค่โชคดีหรอกนะ!",
-      "TextTw": "3;茜香;06;呿，算妳們走運！",
+      "TextTw": "呿，算你們走運！",
       "TextEn": "Tch. They should consider themselves lucky!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -182,9 +182,9 @@
       "ScriptKr": "1;히후미 귀가부;02;이쪽이에요!\n#1;em;[반응]",
       "TextJp": "こっちです！",
       "TextTh": "ทางนี้ค่ะ!",
-      "TextTw": "這邊！",
+      "TextTw": "請往這邊！",
       "TextEn": "This way!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -201,7 +201,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -218,7 +218,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -235,7 +235,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -252,8 +252,8 @@
       "TextTh": "ตอนต่อไป;ไปยังตลาดมืด 2",
       "TextTw": "下一話;前往黑市（２）",
       "TextEn": "Next Episode;To the Black Market! Part 2",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     }
-    ]
+  ]
 }

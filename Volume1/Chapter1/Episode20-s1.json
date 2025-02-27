@@ -1,6 +1,6 @@
 {
-    "DataList": [
-        {
+  "DataList": [
+    {
       "GroupId": 11200,
       "SelectionGroup": 0,
       "BGMId": 20,
@@ -14,7 +14,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -31,7 +31,7 @@
       "TextTh": "ตอนที่ 20;กรรมการวินัยเข้าร่วมรบ!",
       "TextTw": "第20話;風紀委員會，參戰！",
       "TextEn": "Episode 20;The Prefect Team Goes to War!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -48,7 +48,7 @@
       "TextTh": "เมืองอะบิดอสที่ถูกทำลาย",
       "TextTw": "被破壞的阿拜多斯市區",
       "TextEn": "Destroyed Downtown Abydos",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -65,7 +65,7 @@
       "TextTh": "ประธาน! มุสึกิ! ฮารุกะ! เราต้องหนีแล้ว! คนพวกนั้นมาแล้วละ!",
       "TextTw": "社長！無月！遙香！快點躲起來！那些傢伙來了！",
       "TextEn": "Boss! Mutsuki, Haruka! We have to get out of here! It's them!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -82,7 +82,7 @@
       "TextTh": "คนพวกนั้น...?",
       "TextTw": "那些傢伙？",
       "TextEn": "Who's \"them\"?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -99,7 +99,7 @@
       "TextTh": "พวกคณะกรรมการวินัยเกเฮนน่าไงเล่า! พวกนั้นไล่ตามพวกเรามาถึงที่นี่เลยเหรอเนี่ย แต่ทำไมถึงโผล่มา#nตอนนี้ล่ะ...!",
       "TextTw": "我們學校風紀委員會的那些人！居然追到這裡來！還偏偏挑這種時候……！",
       "TextEn": "The Gehenna Prefect Team is here! Have they been tracking us all this time? And why now...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -116,7 +116,7 @@
       "TextTh": "เดี๋ยวสิ เลือกเวลาโจมตีได้เหมาะเกินไปไหม?!",
       "TextTw": "不對，就因為是這種時候……！？",
       "TextEn": "No, wait. This might be them picking the perfect time to attack!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -133,7 +133,7 @@
       "TextTh": "(ตู้มมมมมมม!)",
       "TextTw": "（咻哐哐哐哐哐──！）",
       "TextEn": "*KA-BLAM*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -150,7 +150,7 @@
       "TextTh": "อึ้ก!",
       "TextTw": "呃！ ",
       "TextEn": "Gah! ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -165,9 +165,9 @@
       "ScriptKr": "3;카요코;07;젠자아앙…….\n#3;stiff",
       "TextJp": "くぅっ……！",
       "TextTh": "หนอยยย....",
-      "TextTw": "呃……！",
+      "TextTw": "唔……！",
       "TextEn": "Damn it...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -184,7 +184,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -201,7 +201,7 @@
       "TextTh": "(ตู้มมมม!)",
       "TextTw": "（轟隆隆隆隆隆！）",
       "TextEn": "*collapses*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -218,7 +218,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -235,7 +235,7 @@
       "TextTh": "เป้าหมายนิ่งไปแล้วค่ะ!",
       "TextTw": "目標已沉默。",
       "TextEn": "Targets neutralized.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -252,7 +252,7 @@
       "TextTh": "ดีละ ส่งกองกำลังหน่วยที่ 2 ลงพื้นที่เพิ่มได้",
       "TextTw": "很好。步兵，第2小隊突擊。",
       "TextEn": "Good. Squads one and two, move in.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -269,7 +269,7 @@
       "TextTh": "อิโอริ แล้วเด็กพวกนั้นจะเอายังไงดีคะ?",
       "TextTw": "……伊織，那些人怎麼辦？",
       "TextEn": "What about the others, Iori?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -286,7 +286,7 @@
       "TextTh": "หืม? นักเรียนจากโรงเรียนนั้นเหรอ? โรงเรียนไหนนะ... อะบิดอสใช่ไหม?",
       "TextTw": "嗯？那邊的學生？我記得是……阿拜多斯？",
       "TextEn": "You mean the students from that school? What was it called again...?#nAbydos?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -301,9 +301,9 @@
       "ScriptKr": "4;이오리;05;당연한 거 아냐? 공무 집행에 방해를 하면 전부 적이다.\n#4;em;[반응]",
       "TextJp": "そんなの当然、公務の執行を妨害する輩は全員敵だ。",
       "TextTh": "มันก็แหงอยู่แล้วไม่ใช่รึไง? พวกที่ขัดขวางการทำงานของส่วนกลางก็ถือเป็นศัตรูทั้งหมดนั่นแหละ",
-      "TextTw": "那當然是，膽敢妨礙執行公務的全是敵人。",
+      "TextTw": "那還用說？膽敢妨礙執行公務的全是敵人。",
       "TextEn": "Do you really need to ask? Anyone who interferes with the execution of official duties is an enemy.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -318,9 +318,9 @@
       "ScriptKr": "1;치나츠;02;그렇다면 얌전히 있어 주기를 바라는 수 밖엔…….#n하지만 이쪽도 사정을 설명하는 게 순서…….",
       "TextJp": "ならば、おとなしくしていてもらいたいものですね……#nしかしこちらの事情を説明するのが先かと……。",
       "TextTh": "ถ้างั้นก็คงต้องขอให้พวกนั้นอยู่กันเงียบๆ แล้วละ... แต่ตามขั้นตอนแล้วเราก็ควรอธิบายสถานการณ์ของ#nพวกเราให้ฟังก่อน...",
-      "TextTw": "那我們也只能希望她們不要輕舉妄動了……#n不過應該先說明一下這邊的情況……",
+      "TextTw": "只能希望他們不要輕舉妄動了……#n不過我認為應該先說明一下這邊的情況……",
       "TextEn": "Then all we can do is hope that they stay out of our way...but procedure dictates that we state our intentions first.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -335,9 +335,9 @@
       "ScriptKr": "4;이오리;05;설명? 꼭 필요해, 그게?",
       "TextJp": "説明？必要か、それ？",
       "TextTh": "อธิบายเหรอ? จำเป็นด้วยหรือไง?",
-      "TextTw": "說明？那種東西有必要嗎？",
+      "TextTw": "說明？有必要嗎？",
       "TextEn": "What for? Is it even necessary?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -354,7 +354,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -369,9 +369,9 @@
       "ScriptKr": "4;이오리;05;우리 학원의 골칫덩이를 잡아가두는데 쓰는 노력만 해도 아깝다고. #n만약 우리를 방해한다면 저 녀석들이라도 당장 해치워버리겠어.\n#4;em;[빠직]",
       "TextJp": "うちの厄介者どもを取っ捕まえるための労力が惜しい。#nもし邪魔するなら、部外者とはいえ問答無用でまとめて叩きのめす。",
       "TextTh": "แค่ต้องมาตามจับตัวปัญหาของโรงเรียนเราก็เสียดายเวลาจะแย่อยู่แล้ว ถ้าพวกนั้นเข้ามาขวางละก็ ฉันจะ#nซัดให้หมอบรวมกันไปเลย",
-      "TextTw": "光是想到為了抓那群問題學生所花的勞力都覺得可惜。 #n雖說是局外人，不過膽敢妨礙我們就不用多說連同一起解決。",
+      "TextTw": "光是想到為了抓那群問題學生所花的勞力都覺得可惜。#n就算他們是外人，只要膽敢妨礙我們就直接一起解決。",
       "TextEn": "It's tiring enough already, going after all these loser delinquents from our academy. Why waste the time or effort? Just wipe them out with the rest if they put up a fuss.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -388,7 +388,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -405,7 +405,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -422,7 +422,7 @@
       "TextTh": "อะไรเนี่ย? คณะกรรมการวินัยมาจับตัวหน่วยรับจ้างสารพัดเหรอ?!",
       "TextTw": "搞，搞什麼？風紀委員會是來抓走便利屋這些傢伙的嗎！？",
       "TextEn": "Is the Prefect Team here to take those Problem Solver kids into custody?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -437,9 +437,9 @@
       "ScriptKr": "5;통신아야네;05;아직은 몰라요……. 하지만 딱히 우리에게 우호적인 시그널을 보내는 것도 아니에요.\n#5;a",
       "TextJp": "まだわかりません……しかし私たちに友好的とは判断しかねます。",
       "TextTh": "เรื่องนั้นยังไม่รู้หรอกค่ะ... อีกอย่าง คณะกรรมการวินัยก็ไม่ได้ส่งสัญญาณบอกเราว่ามาดีด้วย...",
-      "TextTw": "目前還很難說……但是她好像也沒有釋出善意的意思。",
+      "TextTw": "目前還不清楚……但他們並沒有對我們釋出善意。",
       "TextEn": "I'm not sure yet... And they're not exactly sending us any good vibes, either.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -454,9 +454,9 @@
       "ScriptKr": "5;시로코;02;맞아. 포격 범위 안에 우리도 들어 있었어. 대놓고 노린 건 아니지만.\n#5;em;[반응]\n#5;a",
       "TextJp": "確かに。砲撃範囲内には私たちもいた、あからさまにこっちを狙ったわけじゃないけど。",
       "TextTh": "ใช่ ยังไงพวกเราก็อยู่ในรัศมีปืนใหญ่ แม้จะไม่ได้ตั้งใจยิงเราโดยเฉพาะก็เถอะ",
-      "TextTw": "確實是這樣。我們也在砲擊範圍內，雖然很明顯不是朝著我們。",
+      "TextTw": "沒錯。雖然對方並沒有直接瞄準我們……但我們也在砲擊範圍內。",
       "TextEn": "Yeah. They weren't targeting us specifically, but we were still in their bombardment zone.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -473,7 +473,7 @@
       "TextTh": "ถ้างั้น...",
       "TextTw": "怎麼這樣……",
       "TextEn": "Geez... ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -490,7 +490,7 @@
       "TextTh": "อย่ามาตลกน่า! พวกเราต่างหากที่จะเป็นฝ่ายจัดการพวกหน่วยรับจ้างสารพัดน่ะ! พวกนั้นคิดว่าตัวเองเป็นใคร ถึงเข้ามายุ่งแบบนี้น่ะ!?",
       "TextTw": "開什麼玩笑啊！便利屋是我們的獵物！到底想怎樣！",
       "TextEn": "Fat chance we'll allow it! Those Problem Solver scumbags are ours!#nWho the hell do they think they are?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -507,7 +507,7 @@
       "TextTh": "แต่ว่าคณะกรรมการวินัยเป็นกลุ่มกองกำลังทางการของโรงเรียนอื่น พวกนั้นต่างจากชมรมอย่างหน่วยรับจ้าง#nสารพัดนะคะ!",
       "TextTw": "但是格黑娜的風紀委員會，和其他學園的武裝集團、便利屋等社團的性質是不同的！",
       "TextEn": "Dealing with the Prefect Team and some small-time crooks like Problem Solver couldn't be any more different. They're the official armed forces of their academy.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -524,7 +524,7 @@
       "TextTh": "ถ้าเกิดมีอะไรผิดพลาดขึ้นมา อาจทำให้เกิดความขัดแย้งทางการเมืองขึ้นได้...",
       "TextTw": "一不小心的話，可能會變成政治紛爭的導火線也說不定……",
       "TextEn": "This might escalate into a political conflict if we're not careful...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -541,7 +541,7 @@
       "TextTh": "ยังติดต่อหัวหน้าโฮชิโนะไม่ได้อีกเหรออายาเนะจัง?",
       "TextTw": "綾音醬，還沒有聯絡上星野前輩嗎？",
       "TextEn": "Ayane, is there still no word from Hoshino?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -556,9 +556,9 @@
       "ScriptKr": "3;통신아야네;09;……네. 그래도 이렇게 오래 연락이 끊긴 적은 없는데…….\n#3;em;[반응]\n#3;a",
       "TextJp": "……はい。普段なら、ここまで連絡取れないことはないはずなのに……。",
       "TextTh": "ยังติดต่อไม่ได้เลยค่ะ แต่ไม่เคยติดต่อรุ่นพี่ไม่ได้นานขนาดนี้มาก่อนเลย...",
-      "TextTw": "……是。平常的話，應該不會聯絡不上才對……",
+      "TextTw": "……是。平常應該不會聯絡不上才對……",
       "TextEn": "No. She's never been out of contact for this long before...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -575,7 +575,7 @@
       "TextTh": "...แล้วเราต้องทำยังไงในสถานการณ์นี้เหรอคะ?",
       "TextTw": "這個狀況……我們該怎麼辦才好呢？",
       "TextEn": "So...what should we do here?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -592,7 +592,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -609,7 +609,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -624,9 +624,9 @@
       "ScriptKr": "[s] \"그럼 흥신소를 이대로 선도부에게 인도할 거야?\"",
       "TextJp": "[s]  \"じゃあ便利屋をこのまま風紀委員会に引き渡しちゃう？\"",
       "TextTh": "[s] \"จะให้คณะกรรมการวินัยเอาตัวหน่วยรับจ้างสารพัดไปแบบนี้เหรอ?\"",
-      "TextTw": "[s]「那就這樣把便利屋移交給風紀委員會嗎？」",
+      "TextTw": "[s]「就這樣把便利屋移交給風紀委員會嗎？」",
       "TextEn": "[s] \"You don't want to hand Problem Solver over to them, right?\"",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -641,9 +641,9 @@
       "ScriptKr": "5;노노미;19;그, 그치만……. 그렇다고 저들과 싸울 수는…….\n#5;em;[속상함]",
       "TextJp": "それは、で、ですが……それにしても彼女たちと戦うわけには……。",
       "TextTh": "ตะ... แต่ว่า... เราคงสู้กับคนพวกนั้นไม่ไหว...",
-      "TextTw": "那是，但，但是……也不能因此就和她們開戰……",
+      "TextTw": "這……可是也不能因此和他們開戰……",
       "TextEn": "B-But we can't fight them head on...can we?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -660,7 +660,7 @@
       "TextTh": "งั้นจะทำยังไงดีล่ะ คุณครู?",
       "TextTw": "那要怎麼做？",
       "TextEn": "I get what you're asking us, but what are we supposed to do about it?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -677,7 +677,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -694,7 +694,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -711,7 +711,7 @@
       "TextTh": "ไม่มีทางอื่นแล้ว พวกเราจะต้องขัดขวางคณะกรรมการวินัย",
       "TextTw": "沒有其他選項了，阻止風紀委員會吧。",
       "TextEn": "We must be of one mind on this. We have to resist the Prefect Team.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -728,7 +728,7 @@
       "TextTh": "ชิโรโกะจัง...?!",
       "TextTw": "白子醬……！？ ",
       "TextEn": "Shiroko?! ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -745,7 +745,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -762,7 +762,7 @@
       "TextTh": "ใช่ค่ะ... ถูกต้องแล้ว",
       "TextTw": "……是，說得沒錯。",
       "TextEn": "She's right.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -777,9 +777,9 @@
       "ScriptKr": "3;통신아야네;05;선도부가 저희 자치구에서 전술행동을 벌였다는 것부터가 #n이미 정치적 분쟁이 생겼다는 얘기……. \n#3;em;…",
       "TextJp": "風紀委員会が私たちの自治区ですでに戦術的行動をしたということは、#n政治的紛争が生じるということ……。",
       "TextTh": "จริงๆ ความขัดแย้งทางการเมืองเกิดขึ้นตั้งแต่ที่คณะกรรมการวินัย เข้ามาต่อสู้ในเขตปกครองของพวกเรา#nโดยพละการแบบนี้แล้วละค่ะ",
-      "TextTw": "從風紀委員會在我們的自治區發動作戰的時候， #n就已經發生政治紛爭的問題了……",
+      "TextTw": "從風紀委員會在我們的自治區發動作戰的時間點開始，就已經發生政治紛爭了……",
       "TextEn": "The Prefect Team escalated this into a political conflict the moment they commenced tactical operations here in our district. ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -794,9 +794,9 @@
       "ScriptKr": "3;통신아야네;14;분명 흥신소 여러분들이 문제를 일으킨 건 사실이에요…….",
       "TextJp": "きっと、便利屋の皆さんが問題を起こしたのは事実です……。",
       "TextTh": "ทางหน่วยรับจ้างสารพัดเป็นฝ่ายที่สร้างปัญหานี้ขึ้นมาก็จริง...",
-      "TextTw": "這個問題很明顯就是便利屋的各位所造成的……",
+      "TextTw": "雖然問題明顯是由便利屋的各位所引起……",
       "TextEn": "Yes, those Problem Solver geeks may have started this mess...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -811,9 +811,9 @@
       "ScriptKr": "3;통신아야네;06;하지만 그렇다고 해서 다른 학원의 선도부가 우리 허락도 없이 여기서 이런 폭거를 감행해도 괜찮다는 뜻은 아니에요.\n#3;em;[!]",
       "TextJp": "しかし、だからといって、他の学園の風紀委員会が私たちの許可もなく、こんな暴挙を敢行してもいいという意味ではありません。",
       "TextTh": "แต่ก็ไม่ได้หมายความว่าพวกคณะกรรมการวินัยจะเข้ามาใช้กำลังในเขตพื้นที่ของพวกเราโดยไม่ได้รับ#nอนุญาตแบบนี้ได้นะคะ",
-      "TextTw": "就算如此，那也不表示其他學園的風紀委員會可以不經我們許可，來這裡撒野。",
+      "TextTw": "但即便如此──#n這也不代表其他學園的風紀委員會可以不經我們的許可，擅自來這裡肆意妄為。",
       "TextEn": "...but that doesn't give the disciplinary board of another academy carte blanche to project force in our jurisdiction without our say-so.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -828,9 +828,9 @@
       "ScriptKr": "3;세리카;06;그 말도 맞아! 어디서 감히! 이건 우리 학교를 무시하는 처사잖아!\n#3;hophop",
       "TextJp": "その通りだわ！よくもこんなことを！これは私たちの学校を権利を無視するような真似よ！",
       "TextTh": "พูดถูกแล้วละ! กล้าดียังไง! แบบนี้มันดูถูกโรงเรียนเรานี่นา!",
-      "TextTw": "說得沒錯！竟敢做出這種事！這種作法是在無視我們學校的權力！",
+      "TextTw": "說的沒錯！竟敢做出這種事！#n這顯然是在無視我們學校的權利！",
       "TextEn": "Yeah, that's right! How dare they? They're basically spitting in our faces!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -845,9 +845,9 @@
       "ScriptKr": "3;세리카;06;흥신소를 벌주는 건 우리라고! #n시바세키 라멘을 부순 대가는 우리가 치르게 해줄 거야!\n#3;closeup\n#3;em;[빠직]",
       "TextJp": "便利屋を罰するのは私たち！#n柴関ラーメンを壊した代償を払ってもらわないと！",
       "TextTh": "คนที่จะลงโทษพวกหน่วยรับจ้างสารพัดคือพวกเราต่างหาก! พวกนั้นต้องชดใช้ที่ทำลายชิบะเซกิ ราเม็ง!",
-      "TextTw": "負責懲罰便利屋的人是我們！ #n必須讓她們付出破壞柴關拉麵的代價！",
+      "TextTw": "負責懲罰便利屋的人是我們！#n必須讓他們付出破壞柴關拉麵的代價！",
       "TextEn": "We're the ones who're going to take Problem Solver down! I'm gonna make sure they pay for what they did to Shiba Seki Ramen!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -864,7 +864,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -881,7 +881,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -898,7 +898,7 @@
       "TextTh": "นักเรียนของอะบิดอสเตรียมพร้อมเข้าต่อสู้แล้วค่ะ",
       "TextTw": "阿拜多斯的學生們已進入備戰狀態。",
       "TextEn": "The Abydos students are preparing for battle.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -913,9 +913,9 @@
       "ScriptKr": "3;치나츠;05\n4;이오리;07;하아. 귀찮게 구는구만. 그래봤자 4명이잖아. 우리는 중대 병력이라고.\n#4;a",
       "TextJp": "はあ、面倒だな、たかが4人で。こっちは一個中隊級の兵力なのに。",
       "TextTh": "เฮ้อ น่ารำคาญชะมัด พยายามช่วยกันแค่ไหนก็มีกันแค่สี่คนอยู่ดี ทางเรามีเป็นกองร้อยเลยนะ ",
-      "TextTw": "哈啊，真麻煩，僅僅4人而已。我們這邊可是有著一個中隊的兵力啊。",
+      "TextTw": "唉，真麻煩，他們不過才4個人而已。#n我們這邊可是有一個中隊的兵力啊。",
       "TextEn": "*sigh* They want to do this the hard way, huh? Even though it's only four of them against our entire brigade?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -930,9 +930,9 @@
       "ScriptKr": "4;이오리;05;하지만 걸어오는 싸움을 피하는 것도 선도부로선 할 일이 아니니. 전원, 전투 준비!\n#4;em;[반응]",
       "TextJp": "だけど、売られた喧嘩を買わないなんてことは、風紀委員会としてできない。#n総員、戦闘準備！",
       "TextTh": "แต่คณะกรรมการวินัยไม่มีทางหนีการต่อสู้ตรงหน้าอยู่แล้ว ทุกคน! เตรียมพร้อมต่อสู้!",
-      "TextTw": "不過，作為風紀委員會無法無視對方的挑釁。全員備戰！",
+      "TextTw": "不過身為風紀委員，可不能逃避找上門來的戰鬥。所有人備戰！",
       "TextEn": "But the Prefect Team standing down from a fight is out of the question.#nAll units, prepare for combat!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -949,7 +949,7 @@
       "TextTh": "ดะ.. เดี๋ยวก่อนค่ะอิโอริ",
       "TextTw": "……請，請等一下。伊織。",
       "TextEn": "Wait. Hold a moment, Iori.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -966,7 +966,7 @@
       "TextTh": "หืม?",
       "TextTw": "嗯？",
       "TextEn": "Huh?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -981,9 +981,9 @@
       "ScriptKr": "3;치나츠;01;아비도스 쪽에 민간인이 포착되었어요. 확인 중이니 기다려주세요…….",
       "TextJp": "アビドス側に民間人が映りました。確認中ですので、お待ちください。",
       "TextTh": "มีชาวเมืองอยู่ในฝั่งอะบิดอสด้วยค่ะ ฉันกำลังตรวจสอบข้อมูลอยู่ รอก่อนค่ะ...",
-      "TextTw": "阿拜多斯那邊目測到了普通民眾。不過還在確認當中，請稍等一下。",
+      "TextTw": "阿拜多斯那邊有一般民眾的身影。#n目前還在確認當中，請稍等一下。",
       "TextEn": "A civilian has been sighted on the Abydos side. One moment while we confirm...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1000,7 +1000,7 @@
       "TextTh": "หืม...?!!",
       "TextTw": "咦……！？",
       "TextEn": "What is it?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1017,7 +1017,7 @@
       "TextTh": "คนนั้น... หรือว่าจะเป็นคุณครู [USERNAME] จากชาเล่ต์?!",
       "TextTw": "……那，那位是……該不會是夏萊的[USERNAME]老師！？",
       "TextEn": "That person over there. Could it be...? [USERNAME] Sensei from Schale?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1034,7 +1034,7 @@
       "TextTh": "ว่าไงนะ? ชาเล่ต์เหรอ...? คืออะไรน่ะ?",
       "TextTw": "嗯？夏萊？那是什麼？",
       "TextEn": "Huh? Schale? What's that?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1051,7 +1051,7 @@
       "TextTh": "... ดะ...เดี๋ยวก่อนนะคะ ถ้าคุณครูจากชาเล่ต์อยู่กับทางนั้นละก็...",
       "TextTw": "……請，請等一下。如果夏萊的老師在那裡的話……",
       "TextEn": "W-Wait a minute. If Schale is working with them, then...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1068,7 +1068,7 @@
       "TextTh": "ห้ามต่อสู้นะคะ!",
       "TextTw": "……這場戰鬥不能打！",
       "TextEn": "We can't! We mustn't engage!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1085,7 +1085,7 @@
       "TextTh": "หมายความว่าไงน่ะ?",
       "TextTw": "怎麼回事？",
       "TextEn": "What are you on about?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1102,7 +1102,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1117,9 +1117,9 @@
       "ScriptKr": "#na;선도부원;아비도스, 우리 쪽으로 접근합니다. 발포하겠습니다!",
       "TextJp": "アビドス、こっちに接近中。発砲します！",
       "TextTh": "พวกอะบิดอสบุกเข้ามาแล้ว จะเริ่มการยิงสกัดแล้วนะคะ!",
-      "TextTw": "阿拜多斯，正在接近這邊。要開火了！",
+      "TextTw": "阿拜多斯正在接近。開火！",
       "TextEn": "The Abydos students are headed our way. Open fire!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1136,7 +1136,7 @@
       "TextTh": "(ปังๆๆๆๆๆ!)",
       "TextTw": "（噠噠噠噠噠噠噠──！！）",
       "TextEn": "*ratta-tat-tat-tat-tat-tat-tat-tat*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1151,9 +1151,9 @@
       "ScriptKr": "1;치나츠;05\n4;이오리;05;칫, 어쩔 수 없지! 간다-! \n#4;em;[반응]",
       "TextJp": "ちっ、仕方ない。行くぞ！",
       "TextTh": "ฮึ่ม! ช่วยไม่ได้! บุกเลย!",
-      "TextTw": "呿，沒辦法了。要上了喔！ ",
+      "TextTw": "呿，沒辦法。上吧！",
       "TextEn": "Tch! They're not going to give us any other choice!#nEngage in combat! ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1170,7 +1170,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -1187,8 +1187,8 @@
       "TextTh": "อ่า...",
       "TextTw": "啊……",
       "TextEn": "*sigh*...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     }
-    ]
+  ]
 }

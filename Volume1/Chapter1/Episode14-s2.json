@@ -1,6 +1,6 @@
 {
-    "DataList": [
-        {
+  "DataList": [
+    {
       "GroupId": 11145,
       "SelectionGroup": 0,
       "BGMId": 12,
@@ -14,7 +14,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -31,7 +31,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -48,7 +48,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -65,8 +65,8 @@
       "TextTh": "ตอนต่อไป;ไปกันเลย มุ่งไปหาพระอาทิตย์ตก!",
       "TextTw": "下一話;朝著夕陽出發吧！",
       "TextEn": "Next Episode;Riding off Into the Sunset!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     }
-    ]
+  ]
 }

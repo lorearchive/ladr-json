@@ -1,6 +1,6 @@
 {
-    "DataList": [
-        {
+  "DataList": [
+    {
       "GroupId": 11195,
       "SelectionGroup": 0,
       "BGMId": 13,
@@ -14,7 +14,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -31,7 +31,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -48,7 +48,7 @@
       "TextTh": "แฮ่ก.. แฮ่ก... เจ้าพวกนี้นี่!!",
       "TextTw": "哈啊……哈啊……這些傢伙……！！",
       "TextEn": "*pant* *pant* You've got to be kidding me!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -63,9 +63,9 @@
       "ScriptKr": "3;아루;05;정말이지…… 끈질기…….",
       "TextJp": "なんでこんなに……しぶと……。",
       "TextTh": "ทำไมถึงดื้อด้านกันแบบนี้...?!",
-      "TextTw": "為什麼這麼的……難纏……",
+      "TextTw": "怎麼會……這麼難纏……",
       "TextEn": "Don't they ever give up...?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -82,7 +82,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -99,7 +99,7 @@
       "TextTh": "(วิ้งงงงงง)",
       "TextTw": "（轟隆隆隆隆隆──！！）",
       "TextEn": "*kablam*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -116,7 +116,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -133,7 +133,7 @@
       "TextTh": "(ตู้มมมมม!!)",
       "TextTw": "（咻喀喀喀喀喀──！！）",
       "TextEn": "*KABLAM*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -150,7 +150,7 @@
       "TextTh": "(ตู้มมมมมมมม!!)",
       "TextTw": "（咚哐──！）",
       "TextEn": "*KABOOM*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -167,7 +167,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -184,7 +184,7 @@
       "TextTh": "หา?!! อะไรกันเนี่ย!!",
       "TextTw": "嗚哇！？這次又是什麼啊！？",
       "TextEn": "Now what?! What's going on?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -201,7 +201,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -218,7 +218,7 @@
       "TextTh": "นี่มัน....!",
       "TextTw": "這是……！",
       "TextEn": "Wait. That's...!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -235,7 +235,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -252,7 +252,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -269,7 +269,7 @@
       "TextTh": "อะไรน่ะ...?",
       "TextTw": "什麼……？",
       "TextEn": "What was that?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -286,7 +286,7 @@
       "TextTh": "เสียงนี้มัน...",
       "TextTw": "這個聲音……",
       "TextEn": "It sounded like...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -303,7 +303,7 @@
       "TextTh": "ปืนใหญ่ค่ะ!! พบพลขว้างระเบิดจำนวนมากอยู่ห่างออกไป 3 กม.",
       "TextTw": "是砲擊！經確認，3km外有多位擲彈兵！",
       "TextEn": "We're getting bombarded! I've marked multiple grenadiers about three kilometers away!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -318,9 +318,9 @@
       "ScriptKr": "5;통신아야네;15;50mm 박격포예요! 우리가 아니라 흥신소를 노리고 있긴 한데, 좀 더 확인을…….\n#5;em;!",
       "TextJp": "50mm迫撃砲です！標的は私たちではなく便利屋の方みたいなのですが、#nもう少し確認を……。",
       "TextTh": "ปืนครกขนาด 50 มม. ดูเหมือนว่าฝ่ายที่ถูกเล่นงานจะเป็นหน่วยรับจ้างสารพัดนะคะ แต่ฉันจะตรวจสอบดู#nอีกทีค่ะ...",
-      "TextTw": "是50mm迫擊砲！她們的目標不是我們，而是便利屋，只不過我還需要再多加確認……",
+      "TextTw": "是50mm迫擊砲！#n雖然目標不是我們而是便利屋，不過還需要再進行確認……",
       "TextEn": "They're 50 millimeter mortar shells! They seem to be aimed at Problem Solver and not us, but I can't be sure...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -335,9 +335,9 @@
       "ScriptKr": "1;노노미;04;박격포라고요……? \n#1;em;[?]\n#1;a",
       "TextJp": "迫撃砲、ですか……？",
       "TextTh": "ปืนครกเหรอคะ...?",
-      "TextTw": "妳說，迫擊砲……？ ",
+      "TextTw": "迫擊砲……？",
       "TextEn": "Mortars...? ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -352,9 +352,9 @@
       "ScriptKr": "5;시로코;05;50mm 박격포라면…….",
       "TextJp": "50mm迫撃砲といえば……。",
       "TextTh": "ปืนครกขนาด 50 มม. งั้นเหรอ...",
-      "TextTw": "說到50mm迫擊砲的話……",
+      "TextTw": "50mm迫擊砲不就是……",
       "TextEn": "If they're 50 millimeter mortar shells, then...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -371,7 +371,7 @@
       "TextTh": "รู้สังกัดของกองกำลังแล้ว!! คณะกรรมการวินัยของเกเฮนน่าค่ะ! มากันทั้งกองร้อยเลยค่ะ!",
       "TextTw": "已確認對方勢力！！是格黑娜風紀委員會！有一個中隊的規模！",
       "TextEn": "Unit affiliation confirmed. That's the Gehenna Prefect Team!#nIt's a single medium-sized brigade!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -388,7 +388,7 @@
       "TextTh": "คณะกรรมการวินัย...!",
       "TextTw": "風紀委員會……！",
       "TextEn": "The Prefect Team...!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -405,7 +405,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -422,8 +422,8 @@
       "TextTh": "ตอนต่อไป;กรรมการวินัยเข้าร่วมรบ!",
       "TextTw": "下一話;風紀委員會，參戰！",
       "TextEn": "Next Episode;The Prefect Team Goes to War!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     }
-    ]
+  ]
 }

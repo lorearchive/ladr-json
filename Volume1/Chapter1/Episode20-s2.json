@@ -1,6 +1,6 @@
 {
-    "DataList": [
-        {
+  "DataList": [
+    {
       "GroupId": 11205,
       "SelectionGroup": 0,
       "BGMId": 13,
@@ -14,7 +14,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -31,7 +31,7 @@
       "TextTh": "อะ.. อะไรเนี่ย?! นี่พวกเราแพ้เหรอ?!",
       "TextTw": "什，什麼！？我們竟然輸了！？",
       "TextEn": "What the heck?! Did we lose?!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -48,7 +48,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -65,7 +65,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -82,7 +82,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -99,7 +99,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -116,7 +116,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -133,7 +133,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -150,7 +150,7 @@
       "TextTh": "[s] \"ว่าไง ชินัตสึ\"",
       "TextTw": "[s] 「好久不見，千夏。」",
       "TextEn": "[s] \"Hello, Chinatsu.\"",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -167,7 +167,7 @@
       "TextTh": "คุณครู... ไม่คิดเลยว่าจะเจอกันแบบนี้...",
       "TextTw": "老師……沒想到會以這種形式見面……",
       "TextEn": "Sensei... I didn't expect us to meet again under these circumstances. ",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -184,7 +184,7 @@
       "TextTh": "เราควรจะล่าถอยตั้งแต่รู้ว่าคุณครูอยู่ตรงนั้นแล้ว เพราะยังไงก็ไม่มีทางชนะ... เป็นความผิดพลาดของพวก#nเราเองค่ะ",
       "TextTw": "知道老師在那裡的瞬間，我就該判斷已經沒有勝算並撤退的…… #n是我們失策了。",
       "TextEn": "I knew we had no hope of winning once I saw you standing there.#nWe should have retreated. My apologies...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -199,9 +199,9 @@
       "ScriptKr": "5;통신아야네;05;아비도스 대책위원회의 오쿠소라 아야네입니다. 그쪽 소속을 밝혀주세요.\n#3;m1\n#5;a",
       "TextJp": "アビドス対策委員会の[ruby=おくそら]奥空[/ruby]アヤネです。所属をお願いします。",
       "TextTh": "โอคุโซระ อายาเนะ จากคณะกรรมการแผนงานของอะบิดอสค่ะ รบกวนแจ้งสังกัดของคุณมาด้วยค่ะ",
-      "TextTw": "我是阿拜多斯對策委員會的奧空綾音。請報上隸屬單位。",
+      "TextTw": "我是阿拜多斯對策委員會的奧空綾音。請報上所屬單位。",
       "TextEn": "This is Okusora Ayane of the Abydos Foreclosure Task Force.#nPlease identify yourselves.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -216,9 +216,9 @@
       "ScriptKr": "#3;hide\n1;이오리;07;그건…….\n#1;em;[...]",
       "TextJp": "それは……。",
       "TextTh": "เรื่องนั้น...",
-      "TextTw": "隸屬單位是……",
+      "TextTw": "所屬單位是……",
       "TextEn": "Well, uh...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -235,7 +235,7 @@
       "TextTh": "ฉันจะเป็นคนตอบเองค่ะ",
       "TextTw": "那個問題就由我來回答吧。",
       "TextEn": "*crackle* I can answer that.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -250,9 +250,9 @@
       "ScriptKr": "5;통신아야네;02;통신……?!\n#5;em;[?!]",
       "TextJp": "通信……？",
       "TextTh": "โทรติดต่อเข้ามาเหรอ...?!",
-      "TextTw": "通信……？",
+      "TextTw": "通訊……？",
       "TextEn": "Someone's patching into the comms!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -269,7 +269,7 @@
       "TextTh": "อาโกะจัง...?",
       "TextTw": "亞子醬……？",
       "TextEn": "Ako?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -286,7 +286,7 @@
       "TextTh": "เจ้าหน้าที่อาวุโสอาโกะ...!",
       "TextTw": "亞子行政官……？",
       "TextEn": "Senior Administrator!",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -303,7 +303,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -318,9 +318,9 @@
       "ScriptKr": "#1;hide\n#5;hide\n3;통신아코;03;안녕하세요. 아비도스 학생 여러분. 저는 게헨나 학원 선도부 소속 선임행정관 아코라고 합니다.\n#3;closeup\n#3;greeting\n#3;em;[반응]\n#3;a",
       "TextJp": "こんにちは、アビドスの皆様。私はゲヘナ学園所属の行政官、アコと申します。",
       "TextTh": "สวัสดีนักเรียนอะบิดอสทุกคนค่ะ เจ้าหน้าที่อาวุโสสังกัดคณะกรรมการวินัยของสถาบันเกเฮนน่า อาโกะค่ะ",
-      "TextTw": "大家好，阿拜多斯的同學們。我是隸屬於格黑娜學園的行政官，亞子。",
+      "TextTw": "各位阿拜多斯的同學們。#n我是格黑娜學園的行政官，名叫亞子。",
       "TextEn": "Greetings, Abydos students. My name is Ako, and I'm the senior administrator of Gehenna Academy's Prefect Team.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -335,9 +335,9 @@
       "ScriptKr": "3;통신아코;01;지금 상황에 대해서 잠깐의 설명을 드렸으면 하는데, 괜찮을까요?\n#3;closeup",
       "TextJp": "今の状況について少し説明させていただきたいと思いますが、よろしいでしょうか？",
       "TextTh": "ขอให้ฉันอธิบายสถานการณ์ที่เกิดขึ้นตอนนี้ก่อนนะคะ",
-      "TextTw": "我想向您們簡短地報告一下目前的情況，請問方便嗎？",
+      "TextTw": "我想向各位簡短地報告一下目前的情況，請問是否可以呢？",
       "TextEn": "I'd like to take a moment to explain what's going on, if you don't mind.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -354,7 +354,7 @@
       "TextTh": "อาโกะจัง... คือว่า...",
       "TextTw": "亞子醬……那個……",
       "TextEn": "Wait a sec, Ako...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -369,9 +369,9 @@
       "ScriptKr": "5;통신아코;07;이오리, 반성문 형식은 제 책상 왼쪽 서랍에 있어요. 알고 계시죠?\n#5;em;[음표]\n#5;a\n#3;m1",
       "TextJp": "イオリ。反省文のテンプレートは私の机の、左の引き出しにあります。ご存じですよね？",
       "TextTh": "อิโอริ คงรู้ใช่ไหมคะว่าแบบฟอร์มหนังสือสำนึกผิดอยู่ในลิ้นชักซ้ายมือของโต๊ะทำงานของฉันน่ะค่ะ?",
-      "TextTw": "伊織。悔過書的範本在我書桌左邊的抽屜。妳知道吧？",
+      "TextTw": "伊織，悔過書的範本在我書桌左邊的抽屜。你應該知道吧？",
       "TextEn": "Iori, the template for apology letters is in the left-hand drawer of my desk. Understood?",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -388,7 +388,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -405,7 +405,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -422,7 +422,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -439,7 +439,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -456,7 +456,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -473,7 +473,7 @@
       "TextTh": "(บิดตัว)",
       "TextTw": "（抖動）",
       "TextEn": "*shifts*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -490,7 +490,7 @@
       "TextTh": "(พรึ่บ)",
       "TextTw": "（咻──）",
       "TextEn": "*sneaking*",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -507,7 +507,7 @@
       "TextTh": "......",
       "TextTw": "……",
       "TextEn": "...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -524,7 +524,7 @@
       "TextTh": "เอ่อ...",
       "TextTw": "啊啊……",
       "TextEn": "Heh heh...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -541,7 +541,7 @@
       "TextTh": "แหะๆ... ทุกคนมารวมตัวกันอยู่ที่นี่...",
       "TextTw": "啊啊，大家都聚在一起呢……",
       "TextEn": "Heh heh heh. They're all sitting ducks...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -556,9 +556,9 @@
       "ScriptKr": "3;하루카;09;(히죽) ……기회네요.",
       "TextJp": "……チャンスですね。",
       "TextTh": "(ยิ้มร้าย) ...ถือเป็นโอกาสเลยนะคะ",
-      "TextTw": "……這是個好機會呢。",
+      "TextTw": "……這是個好機會。",
       "TextEn": "*smirks* This is our chance.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -575,7 +575,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -592,7 +592,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -609,7 +609,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -626,7 +626,7 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -643,7 +643,7 @@
       "TextTh": "ยกโทษให้ไม่ได้... ยกโทษให้ไม่ได้... ยกโทษให้ไม่ได้... ยกโทษให้ไม่ได้...",
       "TextTw": "不可饒恕……不可饒恕……不可饒恕……不可饒恕……",
       "TextEn": "No forgiveness... It's unforgivable.",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -660,7 +660,7 @@
       "TextTh": "ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้#nยกโทษให้ไม่ได้ ยกโทษให้ไม่ได้...",
       "TextTw": "不可饒恕　不可饒恕　不可饒恕　不可饒恕　不可饒恕……#n不可饒恕　不可饒恕　不可饒恕　不可饒恕　不可饒恕　不可饒恕……",
       "TextEn": "Unforgivable, unforgivable, unforgivable, unforgivable...#nUnforgivable, unforgivable, unforgivable, unforgivable...",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     },
     {
@@ -677,8 +677,8 @@
       "TextTh": "",
       "TextTw": "",
       "TextEn": "",
-      "VoiceJp": "",
+      "VoiceId": 0,
       "TeenMode": false
     }
-    ]
+  ]
 }
