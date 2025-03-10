@@ -1,1 +1,72 @@
-{"DataList": [{"GroupId": 22185, "SelectionGroup": 0, "BGMId": 12, "Sound": "", "Transition": 0, "BGName": 1047754314, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide\n#hidemenu", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 22185, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 2127590351, "BGName": 1862270885, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 22185, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 0, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#continued", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 22185, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 463528528, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uce58\ud2b8 \ud50c\ub808\uc774\uc5b4", "TextJp": "\u6b21\u56de;\u30c1\u30fc\u30c8\u30d7\u30ec\u30a4\u30e4\u30fc", "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e1c\u0e39\u0e49\u0e40\u0e25\u0e48\u0e19\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e2a\u0e39\u0e15\u0e23\u0e42\u0e01\u0e07", "TextTw": "\u4e0b\u4e00\u8a71;\u4f5c\u5f0a\u73a9\u5bb6", "TextEn": "Next Episode; Cheater!", "VoiceId": 0, "TeenMode": false}]}
+{
+  "DataList": [
+    {
+      "GroupId": 22185,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 22185,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 1862270885,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 22185,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 22185,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 463528528,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;치트 플레이어",
+      "TextJp": "次回;チートプレイヤー",
+      "TextTh": "ตอนต่อไป;ผู้เล่นที่ใช้สูตรโกง",
+      "TextTw": "下一話;作弊玩家",
+      "TextEn": "Next Episode; Cheater!",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

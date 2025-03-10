@@ -1,1 +1,72 @@
-{"DataList": [{"GroupId": 22065, "SelectionGroup": 0, "BGMId": 12, "Sound": "", "Transition": 0, "BGName": 1047754314, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide\n#hidemenu", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 22065, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 2127590351, "BGName": 1862270885, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 22065, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 0, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#continued", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 22065, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 3283422720, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc774\uc0c1\ud55c \uae30\uacc4 2", "TextJp": "\u6b21\u56de;\u4e0d\u601d\u8b70\u306a\u6a5f\u68b0\uff08\uff12\uff09", "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e2d\u0e38\u0e1b\u0e01\u0e23\u0e13\u0e4c\u0e1b\u0e23\u0e30\u0e2b\u0e25\u0e32\u0e14 2", "TextTw": "\u4e0b\u4e00\u8a71;\u4e0d\u53ef\u601d\u8b70\u7684\u6a5f\u5668\uff08\uff12\uff09", "TextEn": "Next Episode; A Strange Machine 2", "VoiceId": 0, "TeenMode": false}]}
+{
+  "DataList": [
+    {
+      "GroupId": 22065,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 22065,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 1862270885,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 22065,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 22065,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 3283422720,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;이상한 기계 2",
+      "TextJp": "次回;不思議な機械（２）",
+      "TextTh": "ตอนต่อไป;อุปกรณ์ประหลาด 2",
+      "TextTw": "下一話;不可思議的機器（２）",
+      "TextEn": "Next Episode; A Strange Machine 2",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

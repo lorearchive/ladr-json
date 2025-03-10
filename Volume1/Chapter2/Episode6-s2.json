@@ -1,0 +1,72 @@
+{
+  "DataList": [
+    {
+      "GroupId": 12065,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 12065,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 3254559687,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 12065,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 12065,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 3356452655,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;아비도스 사막으로 2",
+      "TextJp": "次回;アビドス砂漠へ（２）",
+      "TextTh": "ตอนต่อไป;มุ่งสู่ทะเลทรายอะบิดอส 2",
+      "TextTw": "下一話;前往阿拜多斯沙漠（２）",
+      "TextEn": "Next Episode;Into the Abydos Desert Part 2",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

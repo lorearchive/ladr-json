@@ -1,0 +1,72 @@
+{
+  "DataList": [
+    {
+      "GroupId": 13395,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 13395,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 4013466393,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 13395,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 13395,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 593337986,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;그 꿈이 남기고 간 흔적",
+      "TextJp": "次回;夢が残した足跡",
+      "TextTh": "ตอนต่อไป;ร่องรอยที่ความฝันทิ้งไว้",
+      "TextTw": "下一話;夢留下的痕跡",
+      "TextEn": "Next Episode;Trace of a Dream",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

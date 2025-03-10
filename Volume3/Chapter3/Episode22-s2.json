@@ -1,1 +1,72 @@
-{"DataList": [{"GroupId": 33225, "SelectionGroup": 0, "BGMId": 12, "Sound": "", "Transition": 0, "BGName": 1047754314, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide\n#hidemenu", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 33225, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 2127590351, "BGName": 3283422720, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 33225, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 0, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#continued", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 33225, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 3051145554, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uace0\uc131\ub2f9\uc758 \uc9c0\ud558", "TextJp": "\u6b21\u56de;\u53e4\u8056\u5802\u306e\u5730\u4e0b\u306b", "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e0a\u0e31\u0e49\u0e19\u0e43\u0e15\u0e49\u0e14\u0e34\u0e19\u0e02\u0e2d\u0e07\u0e27\u0e34\u0e2b\u0e32\u0e23\u0e42\u0e1a\u0e23\u0e32\u0e13", "TextTw": "\u4e0b\u4e00\u8a71;\u65bc\u53e4\u6559\u5802\u7684\u5730\u4e0b", "TextEn": "Next Episode;Below the Old Cathedral", "VoiceId": 0, "TeenMode": false}]}
+{
+  "DataList": [
+    {
+      "GroupId": 33225,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 33225,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 3283422720,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 33225,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 33225,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 3051145554,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;고성당의 지하",
+      "TextJp": "次回;古聖堂の地下に",
+      "TextTh": "ตอนต่อไป;ชั้นใต้ดินของวิหารโบราณ",
+      "TextTw": "下一話;於古教堂的地下",
+      "TextEn": "Next Episode;Below the Old Cathedral",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

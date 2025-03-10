@@ -1,1 +1,72 @@
-{"DataList": [{"GroupId": 42175, "SelectionGroup": 0, "BGMId": 12, "Sound": "", "Transition": 0, "BGName": 1047754314, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide\n#hidemenu", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 42175, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 2127590351, "BGName": 3167142369, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 42175, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 0, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#continued", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 42175, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 1251112406, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc5d8\ub9ac\ud2b8\uc640 \uc5d8\ub9ac\ud2b8", "TextJp": "\u6b21\u56de;\u30a8\u30ea\u30fc\u30c8\u3068\u30a8\u30ea\u30fc\u30c8", "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e04\u0e19\u0e09\u0e25\u0e32\u0e14\u0e01\u0e31\u0e1a\u0e2b\u0e31\u0e27\u0e01\u0e30\u0e17\u0e34", "TextTw": "\u4e0b\u4e00\u8a71;\u83c1\u82f1\u8207\u83c1\u82f1", "TextEn": "Next Episode; Elite vs. Elite", "VoiceId": 0, "TeenMode": false}]}
+{
+  "DataList": [
+    {
+      "GroupId": 42175,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 42175,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 3167142369,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 42175,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 42175,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1251112406,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;엘리트와 엘리트",
+      "TextJp": "次回;エリートとエリート",
+      "TextTh": "ตอนต่อไป;คนฉลาดกับหัวกะทิ",
+      "TextTw": "下一話;菁英與菁英",
+      "TextEn": "Next Episode; Elite vs. Elite",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

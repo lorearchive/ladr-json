@@ -1,1 +1,72 @@
-{"DataList": [{"GroupId": 21035, "SelectionGroup": 0, "BGMId": 12, "Sound": "", "Transition": 0, "BGName": 1047754314, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide\n#hidemenu", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 21035, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 2127590351, "BGName": 3072611628, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 21035, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 0, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#continued", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 21035, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 2297697223, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc6b0\ub9ac\ub294 \uadf8 \ub0a0, \uc18c\ub140\ub97c \ub9cc\ub0ac\ub2e4.", "TextJp": "\u6b21\u56de;\u79c1\u305f\u3061\u306f\u3042\u306e\u65e5\u3001\u5c11\u5973\u306b\u51fa\u4f1a\u3063\u305f", "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e40\u0e14\u0e47\u0e01\u0e2a\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e40\u0e08\u0e2d\u0e27\u0e31\u0e19\u0e19\u0e31\u0e49\u0e19", "TextTw": "\u4e0b\u4e00\u8a71;\u90a3\u5929\uff0c\u6211\u5011\u8207\u5c11\u5973\u76f8\u9047\u4e86", "TextEn": "Next Episode;On That Day, We Met a Girl", "VoiceId": 0, "TeenMode": false}]}
+{
+  "DataList": [
+    {
+      "GroupId": 21035,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 21035,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 3072611628,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 21035,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 21035,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 2297697223,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;우리는 그 날, 소녀를 만났다.",
+      "TextJp": "次回;私たちはあの日、少女に出会った",
+      "TextTh": "ตอนต่อไป;เด็กสาวที่เราเจอวันนั้น",
+      "TextTw": "下一話;那天，我們與少女相遇了",
+      "TextEn": "Next Episode;On That Day, We Met a Girl",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}

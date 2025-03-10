@@ -1,1 +1,72 @@
-{"DataList": [{"GroupId": 21105, "SelectionGroup": 0, "BGMId": 12, "Sound": "", "Transition": 0, "BGName": 1047754314, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide\n#hidemenu", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 21105, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 2127590351, "BGName": 3072611628, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#all;hide", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 21105, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 0, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#continued", "TextJp": "", "TextTh": "", "TextTw": "", "TextEn": "", "VoiceId": 0, "TeenMode": false}, {"GroupId": 21105, "SelectionGroup": 0, "BGMId": 0, "Sound": "", "Transition": 0, "BGName": 2593875829, "BGEffect": 0, "PopupFileName": "", "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uadf8\uacf3\uc5d0\ub294, \uadf8\uac83\uc774 \uc788\uc5c8\ub2e4.", "TextJp": "\u6b21\u56de;\u305d\u3053\u306b\u3042\u3063\u305f\u3082\u306e", "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e13 \u0e17\u0e35\u0e48\u0e41\u0e2b\u0e48\u0e07\u0e19\u0e31\u0e49\u0e19 \u0e21\u0e35\u0e2a\u0e34\u0e48\u0e07\u0e19\u0e31\u0e49\u0e19\u0e2d\u0e22\u0e39\u0e48", "TextTw": "\u4e0b\u4e00\u8a71;\u4f4d\u65bc\u90a3\u88e1\u7684\u5b58\u5728", "TextEn": "Next Episode;Right There, In That Place", "VoiceId": 0, "TeenMode": false}]}
+{
+  "DataList": [
+    {
+      "GroupId": 21105,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 21105,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 3072611628,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 21105,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 21105,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 2593875829,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;그곳에는, 그것이 있었다.",
+      "TextJp": "次回;そこにあったもの",
+      "TextTh": "ตอนต่อไป;ณ ที่แห่งนั้น มีสิ่งนั้นอยู่",
+      "TextTw": "下一話;位於那裡的存在",
+      "TextEn": "Next Episode;Right There, In That Place",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}
