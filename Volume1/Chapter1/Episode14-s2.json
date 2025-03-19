@@ -1,0 +1,72 @@
+{
+  "DataList": [
+    {
+      "GroupId": 11145,
+      "SelectionGroup": 0,
+      "BGMId": 12,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1047754314,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide\n#hidemenu",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 11145,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 2127590351,
+      "BGName": 1423302919,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#all;hide",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 11145,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#continued",
+      "TextJp": "",
+      "TextTh": "",
+      "TextTw": "",
+      "TextEn": "",
+      "VoiceId": 0,
+      "TeenMode": false
+    },
+    {
+      "GroupId": 11145,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 3167142369,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#nextepisode;다음화;가자, 석양을 향해!",
+      "TextJp": "次回;行こう、夕日に向かって！",
+      "TextTh": "ตอนต่อไป;ไปกันเลย มุ่งไปหาพระอาทิตย์ตก!",
+      "TextTw": "下一話;朝著夕陽出發吧！",
+      "TextEn": "Next Episode;Riding off Into the Sunset!",
+      "VoiceId": 0,
+      "TeenMode": false
+    }
+  ]
+}
