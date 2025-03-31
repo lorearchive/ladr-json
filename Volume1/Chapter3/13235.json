@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 13235,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 13235,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 1408038068,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 13235,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 13235,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1779619397,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc5f4\ucc28\ud3ec",
+            "TextJp": "\u6b21\u56de;\u5217\u8eca\u7832\u30b7\u30a7\u30de\u30bf",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e1b\u0e37\u0e19\u0e41\u0e21\u0e48\u0e40\u0e2b\u0e25\u0e47\u0e01\u0e44\u0e1f\u0e1f\u0e49\u0e32",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u5217\u8eca\u7832",
+            "TextEn": "Next Episode;Train Cannon",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}

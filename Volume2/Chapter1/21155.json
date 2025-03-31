@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 21155,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 21155,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 1194530437,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 21155,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 21155,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1298715830,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc55e\uc73c\ub85c \ub2e8 \ud55c \uac78\uc74c!",
+            "TextJp": "\u6b21\u56de;\u3042\u3068\u3082\u3046\u4e00\u6b69\uff01",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e01\u0e49\u0e32\u0e27\u0e44\u0e1b\u0e2d\u0e35\u0e01\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e01\u0e49\u0e32\u0e27!",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u9084\u5dee\u4e00\u6b65\uff01",
+            "TextEn": "Next Episode;Just One Step Forward!",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}

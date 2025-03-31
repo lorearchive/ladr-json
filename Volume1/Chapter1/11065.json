@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 11065,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 11065,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 3254559687,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 11065,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 11065,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 719512360,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc0c8\ub85c\uc6b4 \uc704\ud5d8?",
+            "TextJp": "\u6b21\u56de;\u65b0\u305f\u306a\u308b\u8105\u5a01\uff1f",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e20\u0e31\u0e22\u0e2d\u0e31\u0e19\u0e15\u0e23\u0e32\u0e22\u0e04\u0e23\u0e31\u0e49\u0e07\u0e43\u0e2b\u0e21\u0e48?",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u65b0\u7684\u5371\u96aa\uff1f",
+            "TextEn": "Next Episode; A New Threat?",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}

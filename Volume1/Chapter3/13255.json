@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 13255,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 13255,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 426513494,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 13255,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 13255,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\ucd5c\ud6c4\uc758 \uc804\ud22c 2",
+            "TextJp": "\u6b21\u56de;\u6700\u5f8c\u306e\u6226\u3044\uff08\uff12\uff09",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e01\u0e32\u0e23\u0e15\u0e48\u0e2d\u0e2a\u0e39\u0e49\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2a\u0e38\u0e14\u0e17\u0e49\u0e32\u0e22 2",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u6700\u5f8c\u7684\u6230\u9b25\uff08\uff12\uff09",
+            "TextEn": "Next Episode;The Final Battle 2",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}

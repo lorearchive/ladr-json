@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 42195,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 42195,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 3579056496,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 42195,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 42195,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 2548260723,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uce74\ub974\ubc14\ub178\uadf8\uc758 \uad74\uc18d\uc5d0\uc11c 1",
+            "TextJp": "\u6b21\u56de;\u30ab\u30eb\u30d0\u30ce\u30b0\u306e\u6d1e\u7a9f\uff08\uff11\uff09",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e43\u0e19\u0e16\u0e49\u0e33\u0e41\u0e04\u0e23\u0e4c\u0e1a\u0e32\u0e19\u0e2d\u0e23\u0e4c\u0e01 1",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u5361\u73ed\u8afe\u7684\u6d1e\u7a9f\uff08\uff11\uff09",
+            "TextEn": "Next Episode; Caerbannog's Cave 1",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}

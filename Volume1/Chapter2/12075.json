@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 12075,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 12075,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 3356452655,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 12075,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 12075,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1275642183,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc544\ube44\ub3c4\uc2a4 \uc0ac\ub9c9\uc73c\ub85c 3",
+            "TextJp": "\u6b21\u56de;\u30a2\u30d3\u30c9\u30b9\u7802\u6f20\u3078\uff08\uff13\uff09",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e21\u0e38\u0e48\u0e07\u0e2a\u0e39\u0e48\u0e17\u0e30\u0e40\u0e25\u0e17\u0e23\u0e32\u0e22\u0e2d\u0e30\u0e1a\u0e34\u0e14\u0e2d\u0e2a 3",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u524d\u5f80\u963f\u62dc\u591a\u65af\u6c99\u6f20\uff08\uff13\uff09",
+            "TextEn": "Next Episode;Into the Abydos Desert Part 3",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}

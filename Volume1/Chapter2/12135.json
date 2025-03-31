@@ -1,0 +1,72 @@
+{
+    "DataList": [
+        {
+            "GroupId": 12135,
+            "SelectionGroup": 0,
+            "BGMId": 12,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1047754314,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide\n#hidemenu",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 12135,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 2127590351,
+            "BGName": 2593670835,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#all;hide",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 12135,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 0,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#continued",
+            "TextJp": "",
+            "TextTh": "",
+            "TextTw": "",
+            "TextEn": "",
+            "VoiceId": 0,
+            "TeenMode": false
+        },
+        {
+            "GroupId": 12135,
+            "SelectionGroup": 0,
+            "BGMId": 0,
+            "Sound": "",
+            "Transition": 0,
+            "BGName": 1117619696,
+            "BGEffect": 0,
+            "PopupFileName": "",
+            "ScriptKr": "#nextepisode;\ub2e4\uc74c\ud654;\uc544\ube44\ub3c4\uc2a4 \uacf5\ubc29\uc804 1",
+            "TextJp": "\u6b21\u56de;\u30a2\u30d3\u30c9\u30b9\u653b\u9632\u6226\uff08\uff11\uff09",
+            "TextTh": "\u0e15\u0e2d\u0e19\u0e15\u0e48\u0e2d\u0e44\u0e1b;\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e1b\u0e34\u0e14\u0e25\u0e49\u0e2d\u0e21\u0e2d\u0e30\u0e1a\u0e34\u0e14\u0e2d\u0e2a 1",
+            "TextTw": "\u4e0b\u4e00\u8a71;\u963f\u62dc\u591a\u65af\u653b\u9632\u6230\uff08\uff11\uff09",
+            "TextEn": "Next Episode;The Abydos Siege Part 1",
+            "VoiceId": 0,
+            "TeenMode": false
+        }
+    ]
+}
